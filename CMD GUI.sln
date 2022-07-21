@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMD GUI", "CMD GUI\CMD GUI.csproj", "{176A3ADA-688B-4FE0-8A4C-07E2089420AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176A3ADA-688B-4FE0-8A4C-07E2089420AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176A3ADA-688B-4FE0-8A4C-07E2089420AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176A3ADA-688B-4FE0-8A4C-07E2089420AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176A3ADA-688B-4FE0-8A4C-07E2089420AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2EC848C-6ED3-4656-AF6A-FF3D4CA0BF65}
+	EndGlobalSection
+EndGlobal

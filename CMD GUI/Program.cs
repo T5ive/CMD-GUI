@@ -1,0 +1,20 @@
+global using CMD_GUI.Properties;
+global using System.Diagnostics;
+global using System.Xml;
+global using System.Xml.Serialization;
+namespace CMD_GUI;
+
+internal static class Program
+{
+    /// <summary>
+    ///  The main entry point for the application.
+    /// </summary>
+    [STAThread]
+    static void Main()
+    {
+        // To customize application configuration such as set high DPI settings or default font,
+        // see https://aka.ms/applicationconfiguration.
+        ApplicationConfiguration.Initialize();
+        Application.Run(new FrmMain());
+    }
+}
